@@ -32,6 +32,7 @@ line-height: 1.07;
 text-align: center;
 letter-spacing: 0.02em;
 color: #ffffff;}
+.sec-a{background-color: #2e2f42;}
 
 .click{background-color: #4D5AE5;
 font-weight: 500; font-size: 16px;
@@ -78,3 +79,5 @@ body{
 body{color: #434455;
 background-color: #ffffff;}
 
+.footer{color: #F4F4FD;
+letter-spacing: 0.02em;}
