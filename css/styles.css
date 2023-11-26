@@ -1,30 +1,39 @@
-
+*{}
 .logo{
-    font-family: Raleway;
+    
 font-size: 18px;
 font-weight: 800;
-line-height: 21px;
+line-height: 1.17;
 letter-spacing: 0.03em;
+text-transform: uppercse;
 }
+.logo{font-family: Raleway: sans-serif;}
+
 .logo-txt{ color: #4d5ae5} 
 .logo-studio{ color:#2e2f42}
-.ndex{
-font-family: Roboto;
+.abc{
+text-decoration: none;
 font-size: 16px;
 font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color:#2e2f42
 }
+.abc:hover{color: #404bbf;}
+.abc:active{ color: #404bbf;}
+.address_mail{font-style: normal;
+}
+
+
 .sec-a{background-color:#2e2f42;}
-.ri-k{font-size: 56px; line-height: 1.07;
+.my_head{font-size: 56px; line-height: 1.07;
 text-align: center;
 letter-spacing: 0.02em;
 color: #ffffff;}
+
 .click{background-color: #4D5AE5;
-font-family: Roboto: sans-serif;
 font-weight: 500; font-size: 16px;
-line-height; 1.5;
+line-height: 1.5;
 letter-spacing: 0.04em;
 }
 .click{color: #ffffff;
@@ -33,7 +42,9 @@ background-color: #404BBF;
 .click:hover{background-color: #404BBF;}
 .click:focus{background-color: #404BBF;
 cursor: pointer;}
-.sec-b{font-weight: 500;
+
+.sec-b{
+font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
@@ -41,5 +52,23 @@ color: #2e2f42;}
 p{line-height: 1.5;
 letter-spacing: 0.02;
 color: #434455;}
+.sec-c{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.sec-d{
+    background-color: #F4F4FD;
+}
+.team{font-size: 36px;
+line-height: 1.11;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: #2e2f42;}
+
 
 
