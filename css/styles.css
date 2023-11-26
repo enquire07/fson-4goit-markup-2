@@ -26,8 +26,9 @@ color:#2e2f42
 }
 
 
-.sec-a{background-color:#2e2f42;}
-.my_head{font-size: 56px; line-height: 1.07;
+.my-head{background-color:#2e2f42;
+font-size: 56px; 
+line-height: 1.07;
 text-align: center;
 letter-spacing: 0.02em;
 color: #ffffff;}
@@ -36,6 +37,7 @@ color: #ffffff;}
 font-weight: 500; font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
+font-family: Roboto, sans-serif;
 }
 .click{color: #ffffff;
 background-color: #404BBF;
@@ -71,7 +73,7 @@ letter-spacing: 0.02em;
 text-transform: capitalize;
 color: #2e2f42;}
 body{
-    font-family: Roboto: sans-serif;
+    font-family: Roboto, sans-serif;
 }
 body{color: #434455;
 background-color: #ffffff;}
