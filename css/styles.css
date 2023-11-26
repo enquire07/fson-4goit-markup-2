@@ -5,9 +5,10 @@ font-size: 18px;
 font-weight: 800;
 line-height: 1.17;
 letter-spacing: 0.03em;
-text-transform: uppercse;
+text-transform: uppercase;
+font-family: Raleway,sans-serif;
 }
-.logo{font-family: Raleway: sans-serif;}
+.logo{}
 
 .logo-txt{ color: #4d5ae5} 
 .logo-studio{ color:#2e2f42}
