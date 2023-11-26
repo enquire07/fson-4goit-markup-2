@@ -1,3 +1,4 @@
+
 .logo{
     font-family: Raleway;
 font-size: 18px;
@@ -7,7 +8,7 @@ letter-spacing: 0.03em;
 }
 .logo-txt{ color: #4d5ae5} 
 .logo-studio{ color:#2e2f42}
-.link-page{
+.ndex{
 font-family: Roboto;
 font-size: 16px;
 font-weight: 500;
@@ -15,9 +16,30 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color:#2e2f42
 }
-nav{text-decoration: none;}
-.link-page:hover{color:#404bbf}
-address{font-style: normal;}
-body{font-family: Roboto: sans-serif;
+.sec-a{background-color:#2e2f42;}
+.ri-k{font-size: 56px; line-height: 1.07;
+text-align: center;
+letter-spacing: 0.02em;
+color: #ffffff;}
+.click{background-color: #4D5AE5;
+font-family: Roboto: sans-serif;
+font-weight: 500; font-size: 16px;
+line-height; 1.5;
+letter-spacing: 0.04em;
 }
-body{color: #434455;background: #ffffff;}
+.click{color: #ffffff;
+background-color: #404BBF;
+}
+.click:hover{background-color: #404BBF;}
+.click:focus{background-color: #404BBF;
+cursor: pointer;}
+.sec-b{font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;}
+p{line-height: 1.5;
+letter-spacing: 0.02;
+color: #434455;}
+
+
