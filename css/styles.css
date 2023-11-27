@@ -1,4 +1,6 @@
-*{}
+:root{--background-color: #2e2f42;
+font-variant: normal;}
+
 .root{--mycolor-text: #4D5AE5}
 
 .logo{
@@ -143,3 +145,5 @@ background-color: #404BBF;}
 .image-sec{list-style-type: none;
 text-decoration: none;
 }
+.service-app{list-style-type: none;}
+.ig-design{list-style-type: none;}
