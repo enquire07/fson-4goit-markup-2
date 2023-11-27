@@ -1,4 +1,6 @@
 *{}
+.root{--mycolor-text: #4D5AE5}
+
 .logo{
     
 font-size: 18px;
@@ -7,6 +9,16 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 font-family: Raleway,sans-serif;
+}
+.logo-studio{color: #2e2f42;}
+.text-link{list-style-type: none;}
+.style-css{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    
 }
 
 .logo-txt{ color: #4d5ae5} 
@@ -19,6 +31,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color:#2e2f42
 }
+.text-link{list-style-type: none;}
 .abc:hover{color: #404bbf;}
 .abc:active{ color: #404bbf;}
 .address_mail{font-style: normal;
