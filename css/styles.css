@@ -31,8 +31,8 @@ font-family: Raleway,sans-serif;
 .address_mail{font-style: normal;
     text-decoration: none;
 }
-.address_mail{list-style-type: none;
-text-decoration: none;}
+
+
 .my-head{background-color:#2e2f42;
 font-size: 56px; 
 line-height: 1.07;
@@ -61,14 +61,17 @@ font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2e2f42;}
+.image-sec{list-style-type: none;}
 p{line-height: 1.5;
-letter-spacing: 0.02;
+letter-spacing: 0.02em;
 color: #434455;}
 .sec-header{font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;}
-.sec-p{font-size: 16px;}
+.sec-p{font-size: 16px;
+letter-spacing: 0.02em;
+color: #2e2f42;}
 .sec-c{
     font-size: 36px;
     line-height: 1.11;
@@ -77,6 +80,7 @@ letter-spacing: 0.02em;}
     text-transform: capitalize;
     color: #2e2f42;
 }
+
 .list-type{list-style-type: none;}
 .what-doing{list-style-type: none;}
 
