@@ -30,8 +30,8 @@ font-family: Raleway,sans-serif;
 .abc:active{ color: #404bbf;}
 .address_mail{font-style: normal;
     text-decoration: none;
+    list-style-type: none;
 }
-
 
 .my-head{background-color:#2e2f42;
 font-size: 56px; 
@@ -61,17 +61,22 @@ font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2e2f42;}
+
 .image-sec{list-style-type: none;}
+
 p{line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;}
+
 .sec-header{font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
-letter-spacing: 0.02em;}
-.sec-p{font-size: 16px;
-letter-spacing: 0.02em;
+letter-spacing: 0.02em; 
 color: #2e2f42;}
+
+.sec-p{font-size: 16px;
+color: #2e2f42;}
+
 .sec-c{
     font-size: 36px;
     line-height: 1.11;
