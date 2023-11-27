@@ -79,5 +79,18 @@ body{
 body{color: #434455;
 background-color: #ffffff;}
 
+.foot_er{background-color: #2e2f42;
+}
+.logo{
+    
+font-size: 18px;
+font-weight: 800;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+font-family: Raleway,sans-serif;
+text-decoration: none;
+}
+.logo-studio{color: #f4f4fd;
 .footer{color: #F4F4FD;
 letter-spacing: 0.02em;}
