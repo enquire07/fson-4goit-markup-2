@@ -124,3 +124,22 @@ text-decoration: none;
 
 .footer{color: #F4F4FD;
 letter-spacing: 0.02em;}
+
+.button-link{list-style-type: none;}
+.all{font-family: Roboto,sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #4d5ae5;
+background-color: #F4F4FD;
+}
+.all:hover{ color: #ffffff; 
+    background-color: #404bbf;
+}
+.all:focus{color: #ffffff;
+background-color: #404BBF;}
+.all{cursor: pointer;}
+.image-sec{list-style-type: none;
+text-decoration: none;
+}
