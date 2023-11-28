@@ -2,9 +2,15 @@
 font-variant: normal;}
 
 .root{--mycolor-text: #4D5AE5}
-
-.logo{
-    
+.root{font-family: Raleway, sans-serif;
+}
+.root{--letter-spacing: normal;
+--line-height: 1.17;
+--font-size: 18px
+}
+.logo-text-link{
+ font-family: Raleway, sans-serif;
+ color: #4d5ae5;   
 font-size: 18px;
 font-weight: 800;
 line-height: 1.17;
@@ -42,13 +48,6 @@ text-decoration: none;
 .contact-mail:hover{color: #404bbf;}
 .contact-mail:focus{color: #404bbf;}
 
-.contact-pon{line-height: 1.5;
-letter-spacing: 0.02em;
-color: #434455;
-text-decoration: none;}
-
-.contact-tel:hover{color: #404bbf;}
-.contact-tel:focus{color: #404bbf;}
 .my-head{background-color:#2e2f42;
 font-size: 56px; 
 line-height: 1.07;
