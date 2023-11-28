@@ -19,7 +19,8 @@ text-transform: uppercase;
 text-decoration: none;
 }
 .logo-style-link{
-color:  #4d5ae5 ;}
+color:  #4d5ae5 ;
+text-decoration: none;}
 .logo-studio{color: #2e2f42;
     text-decoration: none;
 }
@@ -92,7 +93,8 @@ color: #2e2f42;
 
 .sec-p{font-size: 16px;
 color:  #434455;
-letter-spacing: 0.02em;}
+letter-spacing: 0.02em;
+line-height: 1.5;}
 
 .sec-c{
     font-size: 36px;
