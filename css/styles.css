@@ -20,7 +20,7 @@ text-transform: uppercase;
 .logo-style-link{text-decoration: none;
 color:  #4d5ae5 ;}
 .logo-studio{color: #2e2f42;
-    list-style: none;
+    text-decoration: none;
 }
 .text-link{list-style: none;}
 .style-css{
@@ -126,17 +126,14 @@ background-color: #ffffff;}
 
 .foot_er{background-color: #2e2f42;
 }
-.logo{
-    
-font-size: 18px;
+
+.logo-textlink{font-size: 18px;
 font-weight: 800;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 font-family: Raleway,sans-serif;
-text-decoration: none;
-}
-.logo-textlink{}
+text-decoration: none;}
 .logo-studio{color: #f4f4fd;}
 
 .footer{color: #F4F4FD;
