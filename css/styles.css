@@ -47,12 +47,6 @@ text-decoration: none;}
 .contact-mail:hover{color: #404bbf}
 .contact-mail:focus{color: #404bbf;}
 
-
-
-
-color: #434455;
-
-
 .my-head{background-color:#2e2f42;
 font-size: 56px; 
 line-height: 1.07;
@@ -95,7 +89,7 @@ letter-spacing: 0.02em;
 color: #2e2f42;}
 
 .sec-p{font-size: 16px;
-color: #2e2f42;}
+color:  #434455;}
 
 .sec-c{
     font-size: 36px;
@@ -106,8 +100,8 @@ color: #2e2f42;}
     color: #2e2f42;
 }
 
-.list-type{list-style-type: none;}
-.what-doing{list-style-type: none;}
+.list-type{list-style-type: disc;}
+.what-doing{list-style-type: disc;}
 
 .sec-d{
     background-color: #F4F4FD;
@@ -119,7 +113,7 @@ letter-spacing: 0.02em;
 text-transform: capitalize;
 color: #2e2f42;}
 .team-picture{background-color: ffffff;}
-.our-team{list-style-type: none;}
+.our-team{list-style-type: disc;}
 
 body{
     font-family: Roboto, sans-serif;
