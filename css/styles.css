@@ -17,9 +17,12 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 }
+.logo-style-link{text-decoration: none;
+color:  #4d5ae5 ;}
 .logo-studio{color: #2e2f42;
+    list-style: none;
 }
-.text-link{list-style-type: none;}
+.text-link{list-style: none;}
 .style-css{
     font-weight: 500;
     font-size: 16px;
@@ -100,8 +103,8 @@ color:  #434455;}
     color: #2e2f42;
 }
 
-.list-type{list-style-type: disc;}
-.what-doing{list-style-type: disc;}
+.list-type{list-style-type: none;}
+.what-doing{list-style-type: none;}
 
 .sec-d{
     background-color: #F4F4FD;
@@ -113,7 +116,7 @@ letter-spacing: 0.02em;
 text-transform: capitalize;
 color: #2e2f42;}
 .team-picture{background-color: ffffff;}
-.our-team{list-style-type: disc;}
+.our-team{list-style-type: none;}
 
 body{
     font-family: Roboto, sans-serif;
