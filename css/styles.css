@@ -16,14 +16,15 @@ font-weight: 800;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
+text-decoration: none;
 }
-.logo-style-link{text-decoration: none;
+.logo-style-link{
 color:  #4d5ae5 ;}
 .logo-studio{color: #2e2f42;
     text-decoration: none;
 }
 .text-link{list-style: none;}
-.style-css{
+.hlist{
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -115,7 +116,8 @@ text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 color: #2e2f42;}
-.team-picture{list-style-type: none;}
+.team-picture{list-style-type: none;
+background-color: #FFFFFF;}
 
 body{
     font-family: Roboto, sans-serif;
