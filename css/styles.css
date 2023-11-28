@@ -168,8 +168,8 @@ text-decoration: none;
 }
 .contact-mail:hover{color: #404bbf;}
 .contact-mail:focus{color: #404bbf;}
-.bank-apps{text-decoration: none;
-}
+
+.apps-pic{list-style-type: none;}
 .sec-c{font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
