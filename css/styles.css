@@ -8,7 +8,7 @@ font-variant: normal;}
 --line-height: 1.17;
 --font-size: 18px
 }
-.logo-text-link{
+.logo-list{
  font-family: Raleway, sans-serif;
  color: #4d5ae5;   
 font-size: 18px;
@@ -17,7 +17,8 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 }
-.logo-studio{color: #2e2f42;}
+.logo-studio{color: #2e2f42;
+}
 .text-link{list-style-type: none;}
 .style-css{
     font-weight: 500;
@@ -36,15 +37,21 @@ text-transform: uppercase;
 .abc:hover{color: #404bbf;}
 .abc:active{ color: #404bbf;
 }
-.add-ress{font-style: normal;
-text-decoration: none;list-style: none;}
-.contact-mail{line-height: 1.5;
+.add-ress{font-style: normal;}
+.address_mail{list-style: none;}
+.contact-mail{font-size: 16px;
+line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
-text-decoration: none;
-}
-.contact-mail:hover{color: #404bbf;}
+text-decoration: none;}
+.contact-mail:hover{color: #404bbf}
 .contact-mail:focus{color: #404bbf;}
+
+
+
+
+color: #434455;
+
 
 .my-head{background-color:#2e2f42;
 font-size: 56px; 
@@ -158,3 +165,10 @@ text-decoration: none;
 }
 .service-app{list-style-type: none;}
 .ig-design{list-style-type: none;}
+contact-mail{line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+text-decoration: none;
+}
+.contact-mail:hover{color: #404bbf;}
+.contact-mail:focus{color: #404bbf;}
