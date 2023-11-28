@@ -33,6 +33,7 @@ color:  #4d5ae5 ;}
     text-decoration: none;
     list-style: none;
 }
+.style-css{text-decoration: none;}
 
 .logo-txt{ color: #4d5ae5} 
 .logo-studio{ color:#2e2f42}
@@ -139,6 +140,8 @@ color: #4d5ae5;}
 
 .footer{color: #F4F4FD;
 letter-spacing: 0.02em;}
+.list{list-style-type: none;
+text-decoration: none;}
 
 .button-link{list-style-type: none;}
 .all{font-family: Roboto,sans-serif;
