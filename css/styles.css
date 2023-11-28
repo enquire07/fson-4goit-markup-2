@@ -127,13 +127,14 @@ background-color: #ffffff;}
 .foot_er{background-color: #2e2f42;
 }
 
-.logo-textlink{font-size: 18px;
+.logo-list{font-size: 18px;
 font-weight: 800;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 font-family: Raleway,sans-serif;
-text-decoration: none;}
+text-decoration: none;
+color: #4d5ae5;}
 .logo-studio{color: #f4f4fd;}
 
 .footer{color: #F4F4FD;
