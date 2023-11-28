@@ -34,11 +34,10 @@ text-transform: uppercase;
 
 .text-link{list-style-type: none;}
 .abc:hover{color: #404bbf;}
-.abc:active{ color: #404bbf;}
-.address_mail{font-style: normal;
-    text-decoration: none;
-    list-style-type: none;
+.abc:active{ color: #404bbf;
 }
+.add-ress{font-style: normal;
+text-decoration: none;list-style: none;}
 .contact-mail{line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
