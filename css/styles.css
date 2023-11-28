@@ -115,8 +115,8 @@ text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 color: #2e2f42;}
-.team-picture{}
-.our-team{list-style-type: none;
+.team-picture{list-style-type: none;}
+.our-team{
 background-color: ffffff}
 
 body{
