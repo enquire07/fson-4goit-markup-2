@@ -167,11 +167,16 @@ text-decoration: none;
 .contact-mail:focus{color: #404bbf;}
 
 .bank-apps{list-style: none;}
-.sec-x{font-weight: 500;
-font-size: 20px;
+.sec-app{font-weight: 500;
+font-size: 16px;
 line-height: 1.5;
-letter-spacing: 0.02em;color: #2e2f42;}
+letter-spacing: 0.02em; 
+color: #2e2f42;
+text-decoration: none;}
+.sec-app:hover{color: #404bbf;}
+.sec-app:focus{color: #404bbf;}
 .apps-id{font-size: 16px;
 letter-spacing: 0.02em;
 color: #434455;
+
 }
