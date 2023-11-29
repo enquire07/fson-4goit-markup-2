@@ -29,7 +29,7 @@ font-variant: normal;}
         text-decoration: none; list-style: none;
         }
 .link{list-style: none;}
-.style-css-link{
+.style-css{
     text-decoration: none;
     font-weight: 500;
     font-size: 16px;
@@ -38,8 +38,8 @@ font-variant: normal;}
     color: #2e2f42;
     list-style: none;
 }
-.style-css link:hover{color: #404bbf;}
-.style-css link:focus{color: #404bbf;}
+.style-css:hover{color: #404bbf;}
+.style-css:focus{color: #404bbf;}
 
 .add-ress{font-style: normal;
 font-style: normal;}
