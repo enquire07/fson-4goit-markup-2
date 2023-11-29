@@ -16,7 +16,7 @@ font-weight: 800;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-text-decoration: none;
+text-decoration: none; list-style: none;
 }
 .logo-style-link{
 color:  #4d5ae5 ;
@@ -34,7 +34,13 @@ text-decoration: none;}
     text-decoration: none;
     list-style: none;
 }
-.style-css{text-decoration: none;}
+.style-css{text-decoration: none;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
 
 .logo-txt{ color: #4d5ae5} 
 .logo-studio{ color:#2e2f42}
