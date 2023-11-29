@@ -9,15 +9,15 @@ font-variant: normal;}
 --font-size: 18px;--color-property: #2e2f42;
 }
 .logo-list{
- font-family: Raleway, sans-serif;
- color: #4d5ae5;   
-font-size: 18px;
-font-weight: 800;
-line-height: 1.17;
-letter-spacing: 0.03em;
-text-transform: uppercase;
-text-decoration: none; list-style: none;
-}
+        font-family: Raleway, sans-serif;
+        color: #4d5ae5;   
+        font-size: 18px;
+        font-weight: 800;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        text-decoration: none; list-style: none;
+        }
 .logo-style-link{
         font-family: Raleway, sans-serif;
         color: #4d5ae5;   
@@ -28,11 +28,9 @@ text-decoration: none; list-style: none;
         text-transform: uppercase;
         text-decoration: none; list-style: none;
         }
-
-.logo-txt{ color: #4d5ae5} 
-.logo-studio{ color:#f4f4fd}
-
-.style-css link{text-decoration: none;
+.link{list-style: none;}
+.style-css link{
+    text-decoration: none;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -46,20 +44,21 @@ text-decoration: none; list-style: none;
 .add-ress{font-style: normal;
 font-style: normal;}
 .address_mail{list-style: none;}
-.contact-mail{font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #434455;
-text-decoration: none;}
+.contact-mail{
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+        text-decoration: none;}
 .contact-mail:hover{color: #404bbf}
 .contact-mail:focus{color: #404bbf;}
 
 .my-head{background-color:#2e2f42;
-font-size: 56px; 
-line-height: 1.07;
-text-align: center;
-letter-spacing: 0.02em;
-color: #ffffff;}
+        font-size: 56px; 
+        line-height: 1.07;
+        text-align: center;
+        letter-spacing: 0.02em;
+        color: #ffffff;}
 .sec-a{background-color: #2e2f42;}
 
 .click{
