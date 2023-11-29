@@ -21,9 +21,9 @@ text-decoration: none; list-style: none;
 .logo-style-link{
 color:  #4d5ae5 ;
 text-decoration: none;}
-.logo-studio{color: #2e2f42;
-    text-decoration: none;
-}
+.logo-txt{ color: #4d5ae5} 
+.logo-studio{ color:#2e2f42}
+
 .style-css link{text-decoration: none;
     font-weight: 500;
     font-size: 16px;
@@ -35,13 +35,6 @@ text-decoration: none;}
 .style-css link:hover{color: #404bbf;}
 .style-css link:focus{color: #404bbf;}
 
-.logo-txt{ color: #4d5ae5} 
-.logo-studio{ color:#2e2f42}
-
-.text-link{list-style-type: none;}
-.abc:hover{color: #404bbf;}
-.abc:active{ color: #404bbf;
-}
 .add-ress{font-style: normal;
 font-style: normal;}
 .address_mail{list-style: none;}
@@ -173,7 +166,7 @@ text-decoration: none;
 .contact-mail:hover{color: #404bbf;}
 .contact-mail:focus{color: #404bbf;}
 
-.apps-pic{list-style-type: none;}
+.bank-apps{list-style: none;}
 .sec-x{font-weight: 500;
 font-size: 20px;
 line-height: 1.5;
