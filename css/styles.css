@@ -26,8 +26,10 @@ font-variant: normal;}
         line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        text-decoration: none; list-style: none;
+        text-decoration: none; 
+        list-style: none;
         }
+        .logo-studio{color: #f4f4fd;}
 .link{list-style: none;}
 .style-css{
     text-decoration: none;
