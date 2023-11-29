@@ -29,7 +29,8 @@ font-variant: normal;}
         text-decoration: none; 
         list-style: none;
         }
-        .logo-studio{color: #f4f4fd;}
+        
+.logo-studio{color: #f4f4fd;}
 .link{list-style: none;}
 .style-css{
     text-decoration: none;
@@ -141,9 +142,8 @@ background-color: #ffffff;}
         text-decoration: none;
         color: #4d5ae5;}
 
-.logo-studio { color: #f4f4fd;}
-
 .footer{color: #F4F4FD;
+    line-height: 1.5;
 letter-spacing: 0.02em;}
 .list{list-style: none;
 text-decoration: none;}
