@@ -111,9 +111,7 @@ cursor: pointer;}
 .list-type{list-style-type: none;}
 .what-doing{list-style-type: none;}
 
-.sec-d{
-    background-color: #F4F4FD;
-}
+.sec-d{background-color: #F4F4FD;}
 
 .team{font-size: 36px;
         line-height: 1.11;
@@ -169,38 +167,20 @@ text-decoration: none;}
     background-color: #404bbf;
 }
 .all:focus{color: #ffffff;
-background-color: #404BBF;}
+  background-color: #404BBF;}
 .all{cursor: pointer;}
-.image-sec{list-style-type: none;
-text-decoration: none;
-}
-.service-app{list-style-type: none;}
-.ig-design{list-style-type: none;}
-contact-mail{line-height: 1.5;
-letter-spacing: 0.02em;
-color: #434455;
-text-decoration: none;
-}
+
 .contact-mail:hover{color: #404bbf;}
 .contact-mail:focus{color: #404bbf;}
 
-.bank-apps{list-style: none;}
 .sec-app{font-weight: 500;
-font-size: 20px;
-line-height: 1.2;
-letter-spacing: 0.02em; 
-color: #2e2f42;
-}
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em; 
+        color: #2e2f42;
+        }
 .sec-app:hover{color: #404bbf;}
 .sec-app:focus{color: #404bbf;}
-.apps-id{font-size: 16px;
-letter-spacing: 0.02em;
-color: #434455;
 
-}
 .logo-studios{ color: #f4f4fd;}
-.-link{list-style:none;}
-.portfolio-foot{
-    background-color: #2e2f42;
-}
-.cash{text-decoration: none;}
+.link{list-style:none;}
