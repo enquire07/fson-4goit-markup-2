@@ -8,16 +8,7 @@ font-variant: normal;}
 --line-height: 1.17;
 --font-size: 18px;--color-property: #2e2f42;
 }
-.logo-list{
-        font-family: Raleway, sans-serif;
-        color: #4d5ae5;   
-        font-size: 18px;
-        font-weight: 800;
-        line-height: 1.17;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
-        text-decoration: none; list-style: none;
-        }
+
 .logo-style-link{
         font-family: Raleway, sans-serif;
         color: #4d5ae5;   
@@ -40,6 +31,7 @@ font-variant: normal;}
     letter-spacing: 0.02em;
     color: #2e2f42;
     list-style: none;
+    text-transform: capitalize;
 }
 .style-css:hover{color: #404bbf;}
 .style-css:focus{color: #404bbf;}
@@ -139,14 +131,7 @@ background-color: #ffffff;}
         text-decoration: none; list-style: none;
         }
 
-.logo-list{font-size: 18px;
-        font-weight: 800;
-        line-height: 1.17;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
-        font-family: Raleway,sans-serif;
-        text-decoration: none;
-        color: #4d5ae5;}
+
 
 .footer{color: #F4F4FD;
     line-height: 24px;
