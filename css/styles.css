@@ -8,17 +8,8 @@ font-variant: normal;}
 --line-height: 1.17;
 --font-size: 18px;--color-property: #2e2f42;
 }
-.logo-list{ font-family: Raleway, sans-serif;
-        color: #4d5ae5;   
-        font-size: 18px;
-        font-weight: 800;
-        line-height: 1.17;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
-        text-decoration: none; 
-        list-style: none;}
 
-.logo-style link{
+.logo-style-link{
         font-family: Raleway, sans-serif;
         color: #4d5ae5;   
         font-size: 18px;
