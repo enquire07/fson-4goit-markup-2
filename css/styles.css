@@ -144,9 +144,6 @@ text-decoration: none;}
   background-color: #404BBF;}
 .all{cursor: pointer;}
 
-.contact-mail:hover{color: #404bbf;}
-.contact-mail:focus{color: #404bbf;}
-
 .sec-app{font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -156,5 +153,5 @@ text-decoration: none;}
 .sec-app:hover{color: #404bbf;}
 .sec-app:focus{color: #404bbf;}
 
-.logo-studios{ color: #f4f4fd;}
-.link{list-style:none;}
+
+
